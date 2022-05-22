@@ -1,17 +1,16 @@
 /***
  +----------------------------------------------------------------------
- | 网站定制开发 微信：woniu_2025 [ WE ARE THE BEST. 2021-06-26 ]
+ | Copyright (c) 2021 https://wwww.laputa.icu All Rights Reserved.
  +----------------------------------------------------------------------
- | Copyright (c) 2021 https://snailweb.cn All Rights Reserved.
+ | Licensed ( https://laputa.icu )
  +----------------------------------------------------------------------
- | Licensed ( https://snailweb.cn )
- +----------------------------------------------------------------------
- | Author: snail <137224272@qq.com>
+ | Author: Nathan
  +----------------------------------------------------------------------
  ***/
-console.log("\n %c 网站定制开发加微信：woniu_2025 %c https://snailweb.cn \n", "color: #ffffff; background: #f1404b; padding:5px 0;", "background: #030307; padding:5px 0;");
+console.log("\n %c  %c https://laputa.icu \n", "color: #ffffff; background: #f1404b; padding:5px 0;", "background: #030307; padding:5px 0;");
 
 var imgArr = [
+    './/img/00.jpg',
     './/img/01.jpg',
     './/img/02.jpg',
     './/img/03.jpg',
